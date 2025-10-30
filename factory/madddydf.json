@@ -1,0 +1,9 @@
+{
+	"name": "madddydf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "01a9d107-0856-44e2-8e13-3384634e5173",
+		"tenantId": "3eeabe39-6b1c-4f95-ae68-2fab18085f8d"
+	}
+}
